@@ -1,7 +1,4 @@
-*.gem
-.bundle
-.sass-cache
+.idea/
 _site
-Gemfile.lock
-vendor
-.jekyll-metadata
+vendor/ruby
+.vscode
