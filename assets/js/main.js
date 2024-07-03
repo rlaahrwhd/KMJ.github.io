@@ -23,7 +23,7 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
+            url: '',
             title: '창의융합인재양성 공모전 (한국정보통신보안윤리학회)',
         },
         {
