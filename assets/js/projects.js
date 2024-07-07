@@ -24,7 +24,6 @@ let render_projects = (slug) => {
         },
         {
             title: 'Cos Pro(Python) 2급',
-            technologies: [],
             description: "Python에 대한 기본적인 활용능력",
             categories: ['featured', 'webdev']
         },
