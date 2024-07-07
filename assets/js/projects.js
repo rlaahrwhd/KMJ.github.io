@@ -54,7 +54,7 @@ let project_mapper = project => {
 
                 ${project.image ? 
                     `<div class="card__image border-tlr-radius">
-                        <a href="${project.link}">
+                        <a href="">
                             <img src="${project.image}" alt="image" id="project-image" class="border-tlr-radius">
                         </a>
                     </div>`           
